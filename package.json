@@ -1,0 +1,26 @@
+{
+  "name": "sass-architecture-manager",
+  "version": "1.0.0",
+  "description": "sass architecture manager having ability to manage the architechure of your scss folder/files",
+  "main": "index.js",
+  "bin": {
+    "sass-architecture-manager": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sass",
+    "architecture",
+    "manager",
+    "scss",
+    "chokidar",
+    "watch"
+  ],
+  "author": "https://github.com/iKunalmathur/",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.5.1",
+    "yargs": "^16.2.0"
+  }
+}

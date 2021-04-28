@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+# all log
+*.log
+
+#extra
+src
+dump
